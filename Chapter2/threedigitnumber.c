@@ -11,7 +11,5 @@ int main() {
      } else {
           printf("It is not a three digit number");
      }
-     
      return 0;
-
 }
